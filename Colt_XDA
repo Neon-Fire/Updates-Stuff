@@ -1,0 +1,170 @@
+gbbbhhgg[CENTER][IMG]https://i.postimg.cc/D0zMN9t7/Banner-Q-1.png[/CENTER][/IMG]
+
+[CODE][CENTER]
+[B]Standard Disclaimer [/B]
+
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+* Please do some research if you have any concerns about features included in this ROM before flashing it! 
+* YOU are choosing to make these modifications, and if you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! And Turn to Ashes...!!!
+[/CODE][/CENTER]
+
+[CENTER]
+[IMG]https://i.postimg.cc/RF2jvhD8/2-Intro.png[/IMG]
+
+[U][B][SIZE="4"]What's ColtOS[/U][/B][/SIZE]
+
+ColtOS Project is presented by a team of learners and it is crafted from AOSP Source with all the necessary customizations, without compromising the stability and security of the device.
+We have cherry-picked the features from many other roms/projects and we are very thankful to all of them!! We just crossed the Beta Phase for Oreo and are happy to announce the release of Colt-OS Andy10 based on Android 10.0
+Although there's no bugs experienced by us or testers, if you find any, please let us know with a logcat.
+
+[U][B][SIZE="4"]Team ColtOS[/U][/B][/SIZE]
+
+We, The ColtTeam, are a small group of working professionals from entirely different industry and have no relation to Android, Programming or Codes.
+As mentioned earlier, we are a young and growing team of learners. We are still learning and helping each other learn as well. Thanks to entire ColtOS team for giving their precious time to this Project.
+
+@Rakesh.Batra : Lead Developer and Founder of ColtOS
+@nitin.chobhe(Project Contibutor/Device Maintainer)
+@SuperDroidBond (Project Contributor)
+@Roger.T(Graphics Designer)
+@HAKrBOY(Graphics Designer) ColtOS is beautiful just because of these two Guys:)
+@mukesh22584 (Device Maintainer)
+
+[IMG]https://i.postimg.cc/g0SCBNqG/3-Features.png[/IMG]
+
+
+[U][B][SIZE="4"]ColtOS V5.6[/U][/B][/SIZE]
+
+[/CENTER]
+
+[HIDE]
+
+[LEFT]
+
+[B][COLOR="#1976D2"][U]General[/U][/COLOR][/B][list]
+
+[*]Android 10.0
+
+[*]Security Update: 01 Jan 2020
+
+[*]New ColtOS Wallpaper
+
+[*]Dope Bootanimations
+
+[*]Brandify Setting Dashboard[/list]
+
+ 
+
+ 
+
+[B][SIZE="3"]We have all android 10 features just like any other android 10 custom rom. i.e. Accent Colours, QS Header Image, Gestures etc. But wait thats not all [/B][/SIZE]
+
+ 
+
+[B][I][COLOR="seagreen"][SIZE="4"]Fonts[/SIZE][/COLOR][/I][/B]
+
+[list]
+
+[*]We have a large collection of fonts
+
+[/list]
+
+ 
+
+[B][I][COLOR="seagreen"][SIZE="4"]VoLTE Icons[/SIZE][/COLOR][/I][/B]
+
+[list]
+
+[*]You can select between 5 VoLTE icons.
+
+        * More will be added in future.
+
+[/list]
+
+ 
+
+[B][I][COLOR="seagreen"][SIZE="4"]ScreenOFF animations[/SIZE][/COLOR][/I][/B]
+
+[list]
+
+[*]We provide Some screen off animations like CRT etc.
+
+[/list]
+
+ 
+
+[B][I][COLOR="seagreen"][SIZE="4"]OEM Specific features[/SIZE][/COLOR][/I][/B]
+
+[list]
+
+[*]MIUI like volume bar
+
+[*]Some Features from OOS too
+
+[/list]
+
+ 
+
+[B][I][COLOR="Red"][SIZE="4"]Want to know more features ?[/SIZE][/COLOR][/I][/B]
+
+[SIZE="3"]If yes, then why are you still reading this? Go and Flash Colt ASAP.[/SIZE]
+
+[/HIDE]
+[/LEFT][CENTER]
+[IMG]https://i.postimg.cc/Kz16XBJB/4-Download.png[/IMG]
+
+[CENTER][B][SIZE="6"][URL="https://sourceforge.net/projects/coltos/files/"][COLOR="SeaGreen"][U]ColtOs V5.3, Andy 10[/U][/COLOR][/URL][/B][/SIZE][/CENTER]
+
+[IMG]https://i.postimg.cc/mgwf7bPz/5-instructions.png[/IMG]
+
+- [B][SIZE="3"]Verify that you're using the latest version of TWRP [/B][/SIZE]
+
+- [B][SIZE="3"]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
+   (A full wipe is when you wipe System + Data + Cache + Dalvik ART Cache)[/SIZE]
+
+- [B][SIZE="3"]Flash the latest version of the ROM[/B][/SIZE]
+
+- [B][SIZE="3"]Flash recommended GAPPS linked below[/B][/SIZE]
+
+- [B][SIZE="3"]Flash Magisk if you want root[/B][/SIZE]
+
+- [B][SIZE="3"]Reboot and ENJOY!![/B][/SIZE]
+
+**[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+**[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+**[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+
+
+[IMG]https://i.postimg.cc/0NygfLSt/6-Sources.png[/IMG]
+
+[B][SIZE="4"]ROM Source: [URL="https://github.com/Colt-Enigma"]ColtOS Source Codes[/URL][/B][/SIZE]
+
+[B][SIZE="4"]Kernel Source: [URL="https://github.com/ColtOS-Devices/your_kernel_repo"]Kernel[/URL][/B][/SIZE]
+
+[IMG]https://i.postimg.cc/zG5YLLGY/7-credit.png[/IMG]
+
+[B][SIZE="4"]
+We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+
+That said, ColtOS team would like to THANK to....
+[/B][/SIZE]
+
+* [SIZE="3"][B][URL="https://github.com/LineageOS"]LineageOS/Cyanogenmod[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/GZOSP"]GZOSP[/SIZE][/URL][/B]
+* [SIZE="3"][B][URL="https://github.com/omnirom"]OmniROM][/SIZE][/B] [/URL]
+* [SIZE="3"][B][URL="https://github.com/nitrogen-project/Nitrogen OS"]Nitrogen OS[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/aicp"]AICP[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/crdroidandroid"]crDroid[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/CypherOS"]CypherOS[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/LiquidRemix/"]Liquid Remix[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/BenzoROM/"]Benzo ROM[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/bootleggersrom/"]BootLeggers ROM[/SIZE][/B][/URL]
+* [SIZE="3"][B][URL="https://github.com/AospExtended/"]AOSP Extended ROM[/SIZE][/B][/URL]
+
+**[B][SIZE="3"][COLOR="SeaGreen"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/COLOR][/SIZE][/B]**
+
+[IMG]https://i.postimg.cc/vHXwVYg1/notes.png[/IMG]
+
+
+[/CENTER]
