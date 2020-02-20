@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "KangM€NG",
+    "version": "v2.0.1",
+    "link": "https://github.com/SiddharthBharadwaj/android_kernel_xiaomi_jasmine_sprout/releases/download/v2.0.1/KangMENG-EAS_Wayne_20-02-2020.zip",
+    "changelog_url": "https://raw.githubusercontent.com/SiddharthBharadwaj/Updates-Stuff/master/KangMENG/kernel-changelog.txt",
+    "date": "2020-02-20",
+    "sha1": "20e2589af231ee547a0794df50b6a817cc6c38cc"
+  },
+  "support": {
+    "link": "https://t.me/sidupdates"
+  }
+}
