@@ -1,4 +1,4 @@
-¶ Added 64 hz/fps screen refresh rate
+¶ Added 64 hz/fps screen refresh rate (Optional)
 ¶ Added Support for FKM OTA's
 
 Json can be found here:
