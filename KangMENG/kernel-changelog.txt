@@ -1,15 +1,8 @@
-ChangeLOG 01-02-2020 :
+¶ Added 64 hz/fps screen refresh rate
+¶ Added Support for FKM OTA's
 
-¶ Upstreamed kernel to 4.4.212
-¶ Clamp boosts with a value of 10
-¶ Implement Dynamic SchedTune Boost v3
-¶ Enabled SAE
-¶ Added sound control
-¶ Reduce dirty ratio
-¶ (IP) Process in-order fragments efficiently
-¶ Enable CONFIG_ZRAM_LZ4_COMPRESS
+Json can be found here:
+https://www.github.com/Updates-Stuuf/tree/master/KangMENG
 
 Notes:
 • No Need To Flash Magisk
-• Only for Jasmine_Sprout
-
