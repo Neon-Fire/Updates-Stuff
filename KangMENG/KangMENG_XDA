@@ -1,0 +1,62 @@
+[CENTER][CODE][B]Standard Disclaimer [/B]
+
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting beaten because you broke mom's phone.
+* Please do some research if you have any concerns about features included in this kernel before flashing it! 
+* YOU are choosing to make these modifications, and if you blame me in any way for what happens to your device, I will laugh at you.[/CODE][/CENTER]
+
+[B][I][COLOR="seagreen"][SIZE="4"]What we get ?[/SIZE][/COLOR][/I][/B]
+⦿ Source with latest CAF changes
+⦿ Debloated
+⦿ EAS highly accurate model
+⦿ Plenty of Govs. and I/O Scheds.
+⦿ Wireguard Support
+⦿ 64 hz/fps screen refresh rate (Optional)
+⦿ Sound Control
+⦿ Dynamic Fsync Control
+⦿ Boeffla Wakelock blocker
+⦿ Latest Upstreams (4.4.214 as of now)
+⦿ And much more under the hood stuff (Check Github)
+
+[B][I][COLOR="seagreen"][SIZE="4"]Download:[/SIZE][/COLOR][/I][/B]
+
+[B][I][COLOR="seagreen"][SIZE="4"]Steps For Flashing:[/SIZE][/COLOR][/I][/B]
+1. Reboot to Recovery
+2. Take a backup of curren Boot.img (For Preacaution)
+2. Flash Kernel zip
+3. Reboot to System
+4. Enjoy ;
+
+[B][I][COLOR="seagreen"][SIZE="4"]FAQ:[/SIZE][/COLOR][/I][/B]
+
+[B]Q. What is EAS ?[/B]
+=> This might help you: [URL="https://developer.arm.com/tools-and-software/open-source-software/linux-kernel/energy-aware-scheduling"]Energy Aware Scheduling[/URL]
+
+[B]Q. In which slot should i flash the kernel ?[/B]
+=> Just Flash it in the cureent slot
+
+[B]Q. Will i have to flash magisk again, if it was already installed ?[/B]
+=> No
+
+[B]Q. Can i install this kernel on GSI based roms ?[/B]
+=> No one tested yet, You can be the first 
+
+[B]Q. What are the best settings for good performance/battery backup ?[/B]
+=> I don't know, why dont you try yourself ?
+
+[B]Q. Can you add this or that ?[/B]
+=> Maybe if it worths that
+
+[B]Source:[/B] [url]https://www.github.com/SiddharthBharadwaj/android_kernel_jasmine_sprout/[/url]
+
+I would like to THANK to....
+
+@tytydraco for his great work on hex kernel
+@osm0sis for Anykernel
+@kdrag0n for his great work
+@rcstar6696
+@crypticfrog for the logo
+[B]Sorry if i forgot someone !!![/B]
+
+[B]Liked My Work ? Want to support via donating ? Then just donate me a build server or You can Donate via :[/B]
+[B]PayPal:[/B] [url]https://www.paypal.me/SiddharthBharadwajYT[/url]
+[B]UPI(Only for Indian Users):[/B] siddharthbharadwaj45@oksbi
