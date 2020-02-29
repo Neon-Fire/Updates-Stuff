@@ -1,9 +1,5 @@
-¶ Added 64 hz/fps screen refresh rate (Optional)
-
-¶ Added Support for FKM OTA's
-
-Json can be found here:
-https://www.github.com/Updates-Stuuf/tree/master/KangMENG
-
-Notes:
-• No Need To Flash Magisk
+¶ New Energy Model from 4.14 CAF 
+¶ Add boeffla wakelock blocker 
+¶ Upstream to 4.4.215 
+¶ Merge tag LA.UM.8.2.r1-06200-sdm660.0 
+¶ ASoC: Optimize audio codec!!
